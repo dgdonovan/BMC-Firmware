@@ -49,7 +49,7 @@ visibility reasons, we will mainly use the issue tracker of this repository.
 - CPU Allwinner T113-S3 (ARM Cortex-A7)
 - 128 MB DDR3 RAM
 - 128 MB SPI NAND flash (MX35LF1GE4AB), V2.3/V2.4
-- 256 MB SPI NAND flash (????????????), V2.5.2
+- 256 MB SPI NAND flash (MX35LF2GE4AD), V2.5.2
 - EEPROM (24C02C)
 - 3 port Gigabit Ethernet Switch (RTL8370MB)
 - Ethernet PHYceiver (RTL8201F-VB-CG)
